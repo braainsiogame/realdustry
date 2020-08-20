@@ -1,0 +1,6 @@
+name: "realdustry"
+displayName: "realdustry" //what displays in the mod selection menu
+author: "iogame"
+description: "aitch"
+version: "0"
+minGameVersion: "103"
